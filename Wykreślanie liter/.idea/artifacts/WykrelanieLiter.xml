@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WykreślanieLiter">
+    <output-path>$PROJECT_DIR$/out/artifacts/WykrelanieLiter</output-path>
+    <root id="archive" name="Wykreslanie_liter.jar">
+      <element id="module-output" name="Wykreslanie_liter" />
+    </root>
+  </artifact>
+</component>
